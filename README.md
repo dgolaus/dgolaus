@@ -5,18 +5,15 @@
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1500&color=A855F7&center=true&vCenter=true&width=600&height=40&lines=building+things+from+pixel+to+vps;fullstack+em+forma%C3%A7%C3%A3o;3d+artist+%40+rubicon+games;open+source+enthusiast+%E2%9C%A6" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1500&color=EF4444&center=true&vCenter=true&width=600&height=40&lines=building+things+from+pixel+to+vps;fullstack+em+forma%C3%A7%C3%A3o;3d+artist+%40+rubicon+games;open+source+enthusiast+%E2%9C%A6" alt="typing animation" />
 </a>
 
+<br>
+<br>
+
+![cards](./cards.svg)
+
 </div>
-
----
-
-### ▸ sobre
-
-- fullstack em formação
-- artista 3d [@ rubicon games](https://rubiconstudios.io/)
-- self-hosting · open source · 🇧🇷
 
 ---
 
@@ -47,12 +44,12 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dgolaus&show_icons=true&bg_color=000000&title_color=a855f7&text_color=ede9fe&icon_color=c084fc&hide_border=true&include_all_commits=true&count_private=true" alt="github stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgolaus&layout=compact&bg_color=000000&title_color=a855f7&text_color=ede9fe&hide_border=true&langs_count=8" alt="top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=dgolaus&show_icons=true&bg_color=000000&title_color=ef4444&text_color=fef2f2&icon_color=f87171&hide_border=true&include_all_commits=true&count_private=true" alt="github stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgolaus&layout=compact&bg_color=000000&title_color=ef4444&text_color=fef2f2&hide_border=true&langs_count=8" alt="top languages" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=dgolaus&background=000000&stroke=000000&ring=a855f7&fire=c084fc&currStreakLabel=a855f7&hide_border=true&dates=ede9fe&sideLabels=ede9fe&currStreakNum=ede9fe&sideNums=ede9fe&dayLabels=a78bfa" alt="contribution streak" />
+<img src="https://streak-stats.demolab.com/?user=dgolaus&background=000000&stroke=000000&ring=ef4444&fire=f87171&currStreakLabel=ef4444&hide_border=true&dates=fef2f2&sideLabels=fef2f2&currStreakNum=fef2f2&sideNums=fef2f2&dayLabels=fca5a5" alt="contribution streak" />
 
 </div>
 
@@ -60,19 +57,20 @@
 
 ### ▸ connect
 
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=x&logoColor=ffffff)](https://twitter.com/gfxs0da)
-[![Instagram](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/dgolaus)
-[![Discord](https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/gfxs0da)
-[![Rubicon](https://img.shields.io/badge/rubicon_studios-000000?style=for-the-badge&logo=rocket&logoColor=a855f7)](https://rubiconstudios.io/)
-
-</div>
+<p align="center">
+  <a href="https://twitter.com/gfxs0da"><img src="./btn-twitter.svg" alt="twitter @gfxs0da" /></a>
+  &nbsp;
+  <a href="https://instagram.com/dgolaus"><img src="./btn-instagram.svg" alt="instagram @dgolaus" /></a>
+  &nbsp;
+  <a href="https://discord.com/users/gfxs0da"><img src="./btn-discord.svg" alt="discord @gfxs0da" /></a>
+  &nbsp;
+  <a href="https://rubiconstudios.io/"><img src="./btn-rubicon.svg" alt="rubicon studios" /></a>
+</p>
 
 ---
 
 <div align="center">
 
-<sub>made with 🟣 in brasil · <a href="https://github.com/dgolaus/neko-lab">view neko-lab →</a></sub>
+<sub>made with 🔴 in brasil · <a href="https://github.com/dgolaus/neko-lab">view neko-lab →</a></sub>
 
 </div>
