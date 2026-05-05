@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320">
   <defs>
     <radialGradient id="amb1" cx="20%" cy="25%" r="60%">
-      <stop offset="0%" stop-color="#ef4444" stop-opacity="0.38"/>
+      <stop offset="0%" stop-color="#ef4444" stop-opacity="0.28"/>
       <stop offset="100%" stop-color="#ef4444" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="amb2" cx="80%" cy="80%" r="60%">
-      <stop offset="0%" stop-color="#dc2626" stop-opacity="0.30"/>
+      <stop offset="0%" stop-color="#dc2626" stop-opacity="0.22"/>
       <stop offset="100%" stop-color="#dc2626" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="amb3" cx="50%" cy="50%" r="80%">
-      <stop offset="0%" stop-color="#fb923c" stop-opacity="0.10"/>
-      <stop offset="100%" stop-color="#fb923c" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#7f1d1d" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#7f1d1d" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="vignette" cx="50%" cy="50%" r="70%">
       <stop offset="60%" stop-color="#000" stop-opacity="0"/>
