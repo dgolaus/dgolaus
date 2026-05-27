@@ -1,43 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 55" width="240" height="55">
   <defs>
-    <radialGradient id="innerGlow" cx="50%" cy="50%" r="55%">
-      <stop offset="0%" stop-color="#ef4444" stop-opacity="0.50"/>
-      <stop offset="40%" stop-color="#7f1d1d" stop-opacity="0.25"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
-    <clipPath id="btnClip">
-      <rect x="2" y="2" width="236" height="51" rx="25.5"/>
-    </clipPath>
+    <linearGradient id="btnBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#181818"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
   </defs>
 
-  <rect x="2" y="2" width="236" height="51" rx="25.5" fill="#000"/>
+  <rect x="2" y="2" width="236" height="51" rx="4" fill="url(#btnBg)"/>
+  <rect x="2" y="2" width="236" height="51" rx="4"
+        fill="none" stroke="#ffffff" stroke-opacity="0.12" stroke-width="1"/>
 
-  <rect x="2" y="2" width="236" height="51" rx="25.5"
-        fill="none" stroke="#1a1a1a" stroke-width="1"/>
-
-  <g clip-path="url(#btnClip)">
-    <ellipse cx="120" cy="27.5" rx="80" ry="22" fill="url(#innerGlow)">
-      <animate attributeName="opacity" values="0.6;1;0.6" dur="3.2s" repeatCount="indefinite"
-               calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
-      <animate attributeName="cx" values="90;150;90" dur="6s" repeatCount="indefinite"
-               calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
-    </ellipse>
+  <g font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace">
+    <text x="16" y="32" font-size="13" fill="#ffffff">$</text>
+    <text x="30" y="32" font-size="13" fill="#e5e7eb" letter-spacing="0.2">open twitter</text>
+    <text x="138" y="32" font-size="13" fill="#6b7280" letter-spacing="0.2">@dgolaus</text>
   </g>
-
-  <rect x="2" y="2" width="236" height="51" rx="25.5"
-        fill="none" stroke="#ef4444" stroke-width="1.5"
-        stroke-linecap="round" pathLength="100"
-        stroke-dasharray="18 82" stroke-dashoffset="0">
-    <animate attributeName="stroke-dashoffset"
-             values="0;-100" dur="3.5s"
-             calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.6 1"
-             repeatCount="indefinite"/>
-  </rect>
-
-  <text x="120" y="34" text-anchor="middle"
-        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif"
-        font-size="13" font-weight="500"
-        fill="#fef2f2" letter-spacing="0.3">
-    twitter &#xb7; @dgolaus
-  </text>
 </svg>
