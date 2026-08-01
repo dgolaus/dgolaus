@@ -71,39 +71,33 @@
         <set attributeName="width" to="164" begin="3.92s"/>
         <set attributeName="width" to="176" begin="3.98s"/>
         <set attributeName="width" to="187" begin="4.04s"/>
-        <set attributeName="width" to="199" begin="4.10s"/>
-        <set attributeName="width" to="210" begin="4.16s"/>
-        <set attributeName="width" to="222" begin="4.22s"/>
-        <set attributeName="width" to="233" begin="4.28s"/>
-        <set attributeName="width" to="245" begin="4.34s"/>
-        <set attributeName="width" to="256" begin="4.40s"/>
       </rect>
     </clipPath>
 
     <clipPath id="cp_comment">
       <rect x="78" y="223" width="0" height="22">
-        <set attributeName="width" to="12"  begin="4.60s"/>
-        <set attributeName="width" to="22"  begin="4.65s"/>
-        <set attributeName="width" to="32"  begin="4.70s"/>
-        <set attributeName="width" to="42"  begin="4.75s"/>
-        <set attributeName="width" to="52"  begin="4.80s"/>
-        <set attributeName="width" to="62"  begin="4.85s"/>
-        <set attributeName="width" to="72"  begin="4.90s"/>
-        <set attributeName="width" to="82"  begin="4.95s"/>
-        <set attributeName="width" to="92"  begin="5.00s"/>
-        <set attributeName="width" to="102" begin="5.05s"/>
-        <set attributeName="width" to="112" begin="5.10s"/>
-        <set attributeName="width" to="122" begin="5.15s"/>
-        <set attributeName="width" to="132" begin="5.20s"/>
-        <set attributeName="width" to="142" begin="5.25s"/>
-        <set attributeName="width" to="152" begin="5.30s"/>
-        <set attributeName="width" to="162" begin="5.35s"/>
-        <set attributeName="width" to="172" begin="5.40s"/>
-        <set attributeName="width" to="182" begin="5.45s"/>
-        <set attributeName="width" to="192" begin="5.50s"/>
-        <set attributeName="width" to="202" begin="5.55s"/>
-        <set attributeName="width" to="212" begin="5.60s"/>
-        <set attributeName="width" to="222" begin="5.65s"/>
+        <set attributeName="width" to="12"  begin="4.30s"/>
+        <set attributeName="width" to="22"  begin="4.35s"/>
+        <set attributeName="width" to="32"  begin="4.40s"/>
+        <set attributeName="width" to="42"  begin="4.45s"/>
+        <set attributeName="width" to="52"  begin="4.50s"/>
+        <set attributeName="width" to="62"  begin="4.55s"/>
+        <set attributeName="width" to="72"  begin="4.60s"/>
+        <set attributeName="width" to="82"  begin="4.65s"/>
+        <set attributeName="width" to="92"  begin="4.70s"/>
+        <set attributeName="width" to="102" begin="4.75s"/>
+        <set attributeName="width" to="112" begin="4.80s"/>
+        <set attributeName="width" to="122" begin="4.85s"/>
+        <set attributeName="width" to="132" begin="4.90s"/>
+        <set attributeName="width" to="142" begin="4.95s"/>
+        <set attributeName="width" to="152" begin="5.00s"/>
+        <set attributeName="width" to="162" begin="5.05s"/>
+        <set attributeName="width" to="172" begin="5.10s"/>
+        <set attributeName="width" to="182" begin="5.15s"/>
+        <set attributeName="width" to="192" begin="5.20s"/>
+        <set attributeName="width" to="202" begin="5.25s"/>
+        <set attributeName="width" to="212" begin="5.30s"/>
+        <set attributeName="width" to="222" begin="5.35s"/>
       </rect>
     </clipPath>
   </defs>
@@ -153,7 +147,7 @@
 
     <g clip-path="url(#cp_line3)">
       <text x="80" y="198" font-size="18" fill="#ffffff">&gt;</text>
-      <text x="104" y="198" font-size="18" fill="#9ca3af" letter-spacing="0.5">aprendendo fullstack</text>
+      <text x="104" y="198" font-size="18" fill="#9ca3af" letter-spacing="0.5">ai solopreneur</text>
     </g>
 
     <g clip-path="url(#cp_comment)">

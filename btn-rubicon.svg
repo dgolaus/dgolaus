@@ -13,8 +13,5 @@
   <g font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace">
     <text x="16" y="32" font-size="13" fill="#ffffff">$</text>
     <text x="30" y="32" font-size="13" fill="#e5e7eb" letter-spacing="0.2">cd rubicon-studios</text>
-    <rect x="178" y="22" width="7" height="13" fill="#ffffff">
-      <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
-    </rect>
   </g>
 </svg>

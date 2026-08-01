@@ -18,7 +18,7 @@
 
 ---
 
-`$ contact --list`
+`$ find me online`
 
 <p align="center">
   <a href="https://twitter.com/dgolaus"><img src="./btn-twitter.svg" alt="twitter @dgolaus" /></a>
@@ -34,6 +34,6 @@
 
 <div align="center">
 
-<sub>// made with &#x26AB; in brasil</sub>
+<sub>// made with luv in brazil</sub>
 
 </div>
