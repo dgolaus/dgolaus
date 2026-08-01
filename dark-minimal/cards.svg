@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 240" width="1280" height="240">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#181818"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+    <pattern id="grain" width="3" height="3" patternUnits="userSpaceOnUse">
+      <rect width="3" height="3" fill="#fff" fill-opacity="0.005"/>
+      <circle cx="1.5" cy="1.5" r="0.3" fill="#fff" fill-opacity="0.02"/>
+    </pattern>
+  </defs>
+
+  <g>
+    <rect x="0" y="0" width="760" height="240" rx="20" fill="url(#cardBg)"/>
+    <rect x="0" y="0" width="760" height="240" rx="20" fill="url(#grain)"/>
+    <rect x="0" y="0" width="760" height="240" rx="20" fill="none"
+          stroke="#ffffff" stroke-opacity="0.08" stroke-width="1"/>
+
+    <text x="40" y="55"
+          font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif"
+          font-size="11" font-weight="500" letter-spacing="2.8" fill="#9ca3af">&#x25B8; SOBRE</text>
+
+    <text x="40" y="125"
+          font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif"
+          font-size="44" font-weight="600" letter-spacing="-1.5" fill="#f5f5f5">coisas que</text>
+    <text x="40" y="172"
+          font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif"
+          font-size="44" font-weight="600" letter-spacing="-1.5" fill="#f5f5f5">importam.</text>
+
+    <text x="40" y="215"
+          font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace"
+          font-size="13" fill="#6b7280" letter-spacing="0.5">&#x2192; aberto a colabora&#xe7;&#xf5;es_</text>
+  </g>
+
+  <g transform="translate(780 0)">
+    <rect x="0" y="0" width="500" height="110" rx="16" fill="url(#cardBg)"/>
+    <rect x="0" y="0" width="500" height="110" rx="16" fill="url(#grain)"/>
+    <rect x="0" y="0" width="500" height="110" rx="16" fill="none"
+          stroke="#ffffff" stroke-opacity="0.08" stroke-width="1"/>
+
+    <text x="22" y="38"
+          font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif"
+          font-size="11" font-weight="500" letter-spacing="2.8" fill="#9ca3af">&#x25B8; SEMPRE APRENDENDO</text>
+
+    <text x="22" y="78"
+          font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif"
+          font-size="22" font-weight="500" letter-spacing="-0.5" fill="#f5f5f5">fullstack em forma&#xe7;&#xe3;o</text>
+
+    <g transform="translate(440 55)">
+      <rect x="-32" y="2" width="6" height="16" rx="1" fill="#6b7280"/>
+      <rect x="-22" y="-8" width="6" height="26" rx="1" fill="#9ca3af"/>
+      <rect x="-12" y="-18" width="6" height="36" rx="1" fill="#d1d5db"/>
+      <rect x="-2" y="-28" width="6" height="46" rx="1" fill="#f5f5f5">
+        <animate attributeName="opacity" values="0.6;1;0.6" dur="2.5s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+
+  <g transform="translate(780 130)">
+    <rect x="0" y="0" width="500" height="110" rx="16" fill="url(#cardBg)"/>
+    <rect x="0" y="0" width="500" height="110" rx="16" fill="url(#grain)"/>
+    <rect x="0" y="0" width="500" height="110" rx="16" fill="none"
+          stroke="#ffffff" stroke-opacity="0.08" stroke-width="1"/>
+
+    <g transform="translate(450 55)">
+      <path d="M 0,-22 L 5.88,-8.09 L 20.92,-6.8 L 9.51,3.09 L 12.94,17.79 L 0,10 L -12.94,17.79 L -9.51,3.09 L -20.92,-6.8 L -5.88,-8.09 Z"
+            fill="#f5f5f5">
+        <animate attributeName="opacity" values="0.75;1;0.75" dur="3s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="rotate"
+                          values="0;360" dur="40s" repeatCount="indefinite"/>
+      </path>
+    </g>
+
+    <text x="22" y="38"
+          font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif"
+          font-size="11" font-weight="500" letter-spacing="2.8" fill="#9ca3af">&#x25B8; CRAFT MATTERS</text>
+
+    <text x="22" y="78"
+          font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif"
+          font-size="22" font-weight="500" letter-spacing="-0.5" fill="#f5f5f5">aten&#xe7;&#xe3;o aos detalhes</text>
+  </g>
+</svg>
